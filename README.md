@@ -67,7 +67,7 @@ Users may still want to define a custom versions of the plugin set, or want to p
   "release": {
     "monorepo": {
       "analyzeCommits": {
-        "format": "atom"
+        "preset": "atom"
       },
       "generateNotes": "myNotesGenerator"
     },
